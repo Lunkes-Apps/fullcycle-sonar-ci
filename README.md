@@ -1,0 +1,1 @@
+# fullcycle-sonar-ci
