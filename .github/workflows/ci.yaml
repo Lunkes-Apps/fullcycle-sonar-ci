@@ -1,10 +1,10 @@
 name: ci-sonarclound
 
 on: 
-  pull_request:
+   push:
     branches:
       - develop
-      - main
+      - 'feature/**'
     
 jobs: 
   run-ci:
